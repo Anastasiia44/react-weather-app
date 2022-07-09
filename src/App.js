@@ -6,7 +6,11 @@ export default function App() {
     <div className="App">
       <h1>Weather App</h1>
       <footer>
-        This project was created by Anastasiia Maliuha and is
+        This project was created by{" "}
+        <a href="" target="_blank">
+          Anastasiia Maliuha
+        </a>{" "}
+        and is
         <a
           href="https://github.com/Anastasiia44/react-weather-app"
           target="_blank"
