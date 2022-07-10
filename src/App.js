@@ -9,7 +9,10 @@ export default function App() {
         <Weather defaultCity="New York" />
         <footer>
           This project was created by{" "}
-          <a href="" target="_blank">
+          <a
+            href="https://relaxed-rolypoly-3aaf9a.netlify.app/"
+            target="_blank"
+          >
             Anastasiia Maliuha
           </a>{" "}
           and is
