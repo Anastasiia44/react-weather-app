@@ -34,10 +34,10 @@
   margin-left: 10px;
 }
 
-.Weather img {
+.Weather canvas {
   margin: 10px auto;
-  position: relative;
-  top: -20px;
+  display: inline-block;
+  margin-top: 5px;
 }
 
 .Weather .unit {
