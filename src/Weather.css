@@ -36,8 +36,6 @@
 
 .Weather canvas {
   margin: 10px auto;
-  display: inline-block;
-  margin-top: 5px;
 }
 
 .Weather .unit {
