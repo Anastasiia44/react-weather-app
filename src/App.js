@@ -6,12 +6,13 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather defaultCity="New York" />
+        <Weather defaultCity="Kyiv" />
         <footer>
           This project was created by{" "}
           <a
             href="https://relaxed-rolypoly-3aaf9a.netlify.app/"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Anastasiia Maliuha
           </a>{" "}
@@ -19,6 +20,7 @@ export default function App() {
           <a
             href="https://github.com/Anastasiia44/react-weather-app"
             target="_blank"
+            rel="noopener noreferrer"
           >
             {" "}
             open-sourced on GitHub
